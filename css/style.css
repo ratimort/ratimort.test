@@ -51,12 +51,15 @@ header {
   header .row {
     background-color: rgba(0, 0, 0, 0.3);
     margin: 0;
-    position: relative;
-    height: 100%;
     z-index: 999;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
     width: auto;
     height: auto;
     min-width: 100%;
+    overflow: hidden;
     min-height: 100%; }
     header .row .container {
       height: 100%; }
