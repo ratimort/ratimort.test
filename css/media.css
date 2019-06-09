@@ -1,0 +1,283 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+
+}
+
+@media only screen and (max-width: 1190px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 991px) {
+header .row .container .center {
+	padding-top: 100px;
+}
+.about .container {
+	padding: 100px 0;
+}
+.about .container .text p {
+	font-size: 25px;
+	line-height: 45px
+}
+.about .container .text h1 {
+	font-size: 25px;
+}
+.portfolio h1 {
+	font-size: 25px;
+}
+.portfolio a {
+	font-size: 18px;
+}
+.portfolio #owl .item h1 {
+	font-size: 18px;
+}
+.portfolio #owl .item a {
+	font-size: 18px;
+}
+.portfolio #owl .item .info {
+	height: 290px;
+}
+/*footer {
+	height: 100%;
+}*/
+footer .footer-f {
+	/*position: inherit;*/
+}
+footer .footer-f .container .left h1 {
+	font-size: 25px;
+}
+footer .footer-f .container .right h2 {
+	margin: 17.5px 0 0;
+}
+footer .footer-f .container .right h2 a {
+	font-size: 14px;
+}
+footer .footer-f .container .left .soc-net h2 a {
+	font-size: 14px;
+}
+}
+
+@media only screen and (max-width: 823px) {
+.portfolio #owl .item {
+	padding: 40px 0px;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+.menu-fixed-bottom .bottom .label {
+	left: -15px;
+}
+.menu-fixed-bottom .bottom .line {
+	left: 11px;
+}
+header .row .container .center {
+	padding-top: 120px;
+}
+header .row .container .center h1 {
+	font-size: 45px;
+}
+.about .container {
+	padding: 80px 0;
+}
+.about .container .text {
+	padding: 0 15px;
+}
+.about .container .text p {
+	font-size: 20px;
+	line-height: 40px;
+}
+.about .container .text h1 {
+	font-size: 20px;
+}
+.portfolio h1 {
+	font-size: 20px;
+}
+.portfolio a {
+	font-size: 16px;
+}
+.line {
+	width: 15px;
+}
+.portfolio .line {
+	bottom: 4px;
+}
+.portfolio #owl .item h1 {
+	font-size: 16px;
+}
+.portfolio #owl .item a {
+	font-size: 14px;
+}
+.portfolio #owl .item .info {
+	height: 250px;
+} 
+footer {
+	height: 442px;
+}
+footer .footer-f {
+	padding: 90px 0 40px;
+}
+footer .footer-f .container .right {
+	margin: 0px 0 0;
+}
+footer .footer-f .container .left h1 {
+	margin: 40px 0 0;
+	font-size: 20px;
+	line-height: 40px;
+}
+footer .footer-f .container .left .soc-net {
+	margin: 20px 0 40px;
+}
+}
+
+@media only screen and (max-width: 736px) {
+
+
+}
+
+@media only screen and (max-width: 667px) {
+
+}
+
+@media only screen and (max-width: 650px) {
+.about .container .text h1 .line {
+	width: 15px;
+}
+.portfolio #owl .item {
+	padding: 40px 60px;
+}
+.portfolio #owl .item .info {
+	height: 280px;
+}
+.portfolio .line {
+	width: 15px;
+}
+header .row .container .center h1 {
+	font-size: 35px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.about .container {
+	padding: 60px 0;
+}
+.about .container .text p {
+	font-size: 18px;
+	line-height: 30px;
+}
+.about .container .text h1 {
+	font-size: 18px;
+}
+.about .container .text h1 .line {
+	bottom: 5px;
+}
+.portfolio h1 {
+	font-size: 18px;
+}
+#powerTip {
+	display: none;
+}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 570px) {
+.portfolio #owl .item {
+	padding: 40px 30px;
+}
+.portfolio #owl .item .info {
+	height: 220px;
+}
+footer {
+	height: 317px;
+}
+footer .footer-f {
+	padding: 40px 0 40px;
+}
+footer .footer-f .container .left .soc-net {
+	margin: 20px 0 20px;
+}
+footer .footer-f .container .left h1 {
+	margin: 0px 0 0;
+}
+footer .footer-f .container .right h2 {
+	margin: 10px 0 0;
+}
+}
+@media only screen and (max-width: 497px) {
+
+}
+
+@media only screen and (max-width: 507px) {
+
+}
+
+@media only screen and (max-width: 380px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+.about .container .text {
+	padding: 0 20px;
+}
+footer .footer-f .container .left h1 {
+	margin: 0px 0 0;
+}
+footer .footer-f .container .left .soc-net {
+	margin: 20px 0 40px;
+}
+footer {
+	height: 392px;
+}
+footer .footer-f .container .right h2 {
+	margin: 17.5px 0 0;
+}
+/*footer .footer-f {
+	padding: 90px 0 70px;
+}*/
+}
+
+/*==========  Mobile First  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+
+  /**/ }
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 1600px) {
+.portfolio #owl .item .info {
+	height: 450px;
+}
+}
+@media only screen and (min-width: 1800px) {
+.portfolio #owl .item .info {
+	height: 500px;
+}
+}
+@media only screen and (min-width: 2300px) {
+.portfolio #owl .item .info {
+	height: 550px;
+}
+}
