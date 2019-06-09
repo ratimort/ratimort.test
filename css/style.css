@@ -77,7 +77,7 @@ header {
 
 #trailer {
   position: absolute;
-  bottom: 0;
+  top: 0;
   z-index: 998;
   overflow: hidden; }
 
