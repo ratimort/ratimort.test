@@ -162,6 +162,12 @@ header .row .container .center h1 {
 }
 
 @media only screen and (max-width: 600px) {
+header {
+	height: 600px;
+}
+.is_overlay {
+	height: 600px;
+}
 .about .container {
 	padding: 60px 0;
 }
